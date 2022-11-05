@@ -17,7 +17,7 @@ function App() {
         <Container>
           <Navbar.Brand href="#home">Library - Firebase CRUD</Navbar.Brand>
         </Container>
-      </Navbar>
+      </Navbar>  
 
       <Container style={{ width: "400px" }}>
         <Row>
